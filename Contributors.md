@@ -20,6 +20,7 @@
 - [Laide Lawal](https://github.com/LaideLawal)
 - [Philip]
 - [Jon Pena]
+- [Ruth Taye]
 - [khada]
 - [akavort]
 - [Gab McCullough-Murray](https://github.com/gabmcm)
